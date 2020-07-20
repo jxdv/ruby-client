@@ -9,6 +9,7 @@ Nimiq Ruby RPC client. It will allow you to interact with the Nimiq Blockchain, 
 # What is Nimiq?
 
 Inspired by the Bitcoin, Nimiq is a blockchain / cryptocurrency that runs in your browser seamlessly.
+
 Fast, easy and fun to use, for more information visit the [Nimiq website](https://www.nimiq.com/).
 
 ### Usage
@@ -33,19 +34,15 @@ puts "My account balance #{get_balance}"
 
 ## Development
 
-This section is for developments. If you only want to use this client go to the [Usage](#Usage) section.
+This section is for developments. If you only want to use this client go to the [Usage](#Usage) section. After cloning the repo, run `bundle` to install the required dependencies. For testing it requires a running Nimiq RPC node, to connect to. You can then run tests by typing `rspec --format documentation`.
 
-After cloning the repo, run `bundle` to install the required dependencies.
-
-For testing it requires a running Nimiq RPC node, to connect to. You can then run tests by typing `rspec --format documentation`.
-
-For private nodes that requires a username/password, don't forget to set these in the configuration spec file.
+For a private node connection that require a username/password, don't forget to set these in the configuration spec file.
 
 ## Contributions
 
 This implementation was originally contributed by [jxdv](https://github.com/jxdv/).
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jxdv/ruby-client.
+Bug reports and pull requests are welcome.
 
 ## License
 
