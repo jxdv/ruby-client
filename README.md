@@ -45,9 +45,11 @@ To know more about what you can possibly do using this library checkout the docu
 
 ## Developments
 
-This section is for developments. If you only want to use this client go to the [Usage](#Usage) section. After cloning the repo, run `bundle` to install the required dependencies. **For testing** it requires a running Nimiq RPC node, to connect to. You can then run tests by typing `rspec --format documentation`.
+This section is for developments. If you only want to use this client go to the [Usage](#Usage) section. After cloning the repo, run `bundle` to install the required dependencies. **For testing**: it requires a running Nimiq RPC node, to connect to.
 
-For a private node connection that require a username/password, don't forget to set it on the `options` object in the configuration spec file.
+You can then run tests by typing `rspec --format documentation`.
+
+For a private node connection that require a username/password, don't forget to set these on the `options` object in the configuration spec file.
 
 ## Contributions
 
