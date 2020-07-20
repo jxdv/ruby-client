@@ -13,8 +13,9 @@ Inspired by Bitcoin, Nimiq is a blockchain that seamlessly runs in your browser.
 Fast, easy and fun to use, for more information visit the [Nimiq website](https://www.nimiq.com/).
 
 ### Usage
-
-Example to start using the Nimiq Ruby Client:
+**Installation:**
+`gem install ruby-client`
+**Start using the Nimiq Ruby Client:**
 
 ```ruby
 options = {
