@@ -15,7 +15,7 @@
 =end
 
 $LOAD_PATH.unshift File.expand_path("../lib", __dir__)
-require "client"
+require "ruby-client"
 # require "minitest/autorun"
 
 describe "Nimiq", type: :request do

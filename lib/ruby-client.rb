@@ -15,7 +15,7 @@
 =end
 
 require_relative "nimiq/version"
-require_relative "rpcclient"
+require_relative "rpc"
 require_relative "api"
 require "json"
 
