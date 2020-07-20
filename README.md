@@ -19,7 +19,7 @@ Example to use this ruby client:
 ```ruby
 options = {
   host: "http://127.0.0.1",
-  port: "8000",
+  port: "8648",
   # user: "user",
   # pass: "pass",
   # uri: "http://USER:PASS@IP:PORT",
