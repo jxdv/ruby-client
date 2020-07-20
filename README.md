@@ -1,5 +1,5 @@
 # Nimiq Blockchain - Ruby RPC Client
----
+
 > Ruby implementation of the Nimiq RPC client specs.
 
 ## Information
