@@ -1,4 +1,4 @@
-# Nimiq Ruby RPC Client
+# Nimiq Blockchain - Ruby RPC Client
 
 > Ruby implementation of the Nimiq RPC client specs.
 
@@ -8,13 +8,13 @@ Nimiq Ruby RPC client. It will allow you to interact with the Nimiq Blockchain, 
 
 # What is Nimiq?
 
-Inspired by the Bitcoin, Nimiq is a blockchain / cryptocurrency that runs in your browser seamlessly.
+Inspired by Bitcoin, Nimiq is a blockchain and cryptocurrency that runs seamlessly on your browser.
 
 Fast, easy and fun to use, for more information visit the [Nimiq website](https://www.nimiq.com/).
 
 ### Usage
 
-Example to use this ruby client:
+Example to start using Nimiq Ruby Client:
 
 ```ruby
 options = {
