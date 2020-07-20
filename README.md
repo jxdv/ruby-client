@@ -14,10 +14,16 @@ Fast, easy and fun to use, for more information visit the [Nimiq website](https:
 
 ### Usage
 **Installation:**
-`gem install ruby-client`
+
+```
+gem install ruby-client
+```
+
 **Start using the Nimiq Ruby Client:**
 
 ```ruby
+require "ruby-client"
+
 options = {
   host: "http://127.0.0.1",
   port: "8648",
